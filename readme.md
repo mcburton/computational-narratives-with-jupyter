@@ -3,6 +3,8 @@
 
 Repository for a short workshop introducing Jupyter and computational narratives.
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mcburton/computational-narratives-with-jupyter/master)
+
 
 ## Learning Objectives
 
