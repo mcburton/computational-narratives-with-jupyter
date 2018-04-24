@@ -25,4 +25,4 @@ Repository for a short workshop introducing Jupyter and computational narratives
 
 
 
-Some materials derived from https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter
+Some materials derived from [Introduction to Reproducible Research](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter)
