@@ -22,3 +22,7 @@ Repository for a short workshop introducing Jupyter and computational narratives
 2. [Intro to Jupyter](2-Intro-to-Jupyter.ipynb)
 3. [Composing Jupyter Notebooks](3-Composing-Jupyter-Notebooks.ipynb)
 4. [Notebooks in the Wild](4-Notebooks-in-the-Wild.ipynb)
+
+
+
+Some materials derived from https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter
